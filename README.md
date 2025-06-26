@@ -1,4 +1,4 @@
-# My First TIA Portal Project
+# TIA Portal Project with installation guide
 
 This repository contains my first TIA Portal project, along with detailed instructions for setting up the environment and downloading required software in the correct order.  
 I must say that its been a while of several trials and fails this is the installation procedure that worked correctly for me.   
